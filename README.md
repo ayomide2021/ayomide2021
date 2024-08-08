@@ -3,10 +3,10 @@
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on e-commerce datasets to optimize loyalty programs and marketing strategies.
-- 🌱 I’m currently learning A/Btesting and ML
+
+
+- 🌱 I’m currently learning more A/Btesting and ML
 - 👯 I’m looking to collaborate on data analytics projects
 - 🤔 I’m looking for help with implementing advanced machine learning models and optimizing data pipelines.
 - 💬 Ask me about SQL, Power BI, customer segmentation, and data storytelling.
