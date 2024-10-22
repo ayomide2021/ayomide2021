@@ -1,4 +1,4 @@
-## Hi there 👋 You are welcome to Kazeem A Odunlami Profile 
+## Hi there 👋 You are welcome to Kazeem A Odunlami Profile
 
 
 Data Analyst with a strong foundation in data analytics gained through an MSc in Petroleum Engineering and an Immersive Data Analytics Accelerator program. Experienced in e-commerce, energy, and research sectors, with a focus on delivering actionable insights and optimizing business performance.
