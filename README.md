@@ -9,7 +9,7 @@ Research/Interests: Data visualization, statistical analysis, machine learning, 
 
 
 
-- 🌱 I’m currently learning more A/B testing and ML
+- 🌱 I’m currently learning more AI and ML
 - 👯 I’m looking to collaborate on data analytics projects
 - 🤔 I’m looking for help with implementing advanced machine learning models and optimizing data pipelines.
 - 💬 Ask me about SQL, Power BI, customer segmentation, and data storytelling.
